@@ -1,0 +1,14 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/time_reminder"
+        android:title="Time reminder"
+        android:visible="true"/>
+    <item
+        android:id="@+id/location_reminder"
+        android:title="Location reminder"
+        android:visible="true"/>
+    
+
+</menu>

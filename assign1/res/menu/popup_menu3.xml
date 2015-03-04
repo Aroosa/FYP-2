@@ -1,0 +1,26 @@
+
+    
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/morning"
+        android:title="Morning   9:00AM"
+        android:visible="true"/>
+    <item
+        android:id="@+id/afternoon"
+        android:title="Afternoon   1:00PM"
+        android:visible="true"/>
+    <item
+        android:id="@+id/evening"
+        android:title="Evening   5:00PM"
+        android:visible="true"/>
+    <item
+        android:id="@+id/night"
+        android:title="Night   8:00PM"
+        android:visible="true"/>
+    <item
+        android:id="@+id/select_atime"
+        android:title="Select a time..."
+        android:visible="true"/>
+
+</menu>

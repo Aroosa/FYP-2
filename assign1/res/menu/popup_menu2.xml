@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/today"
+        android:title="Today"
+        android:visible="true"/>
+    <item
+        android:id="@+id/tomorrow"
+        android:title="Tomorrow"
+        android:visible="true"/>
+    <item
+        android:id="@+id/next_thursday"
+        android:title="Next Thursday"
+        android:visible="true"/>
+    <item
+        android:id="@+id/select_date"
+        android:title="Select a date..."
+        android:visible="true"/>
+
+</menu>
